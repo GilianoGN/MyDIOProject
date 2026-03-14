@@ -1,9 +1,11 @@
 # Desafio de Projeto: O Dia a Dia de um QA - Prática de Testes Manuais
 
-Este repositório contém a documentação técnica e os resultados dos testes manuais funcionais realizados na loja virtual fictícia **Swag Labs**, como parte do desafio de projeto da **DIO (Digital Innovation One)**.
+Este repositório contém a documentação técnica e os resultados dos testes manuais funcionais realizados na loja virtual fictícia **Swag Labs Shopping**, como parte do desafio de projeto da **DIO (Digital Innovation One)**.
 
 ## 🎯 Objetivo
 O objetivo deste projeto foi simular as atividades reais de um Analista de QA em um ambiente ágil, abrangendo desde o levantamento de requisitos até a execução e reporte de bugs.
+
+![Quadro Task Lifecycle](./image/Quadro%20Task%20Lifecycle.png)
 
 ## 🛠️ Ferramentas Utilizadas
 * **JIRA:** Gestão de tarefas (Task Lifecycle) e erros (Bug Lifecycle).
